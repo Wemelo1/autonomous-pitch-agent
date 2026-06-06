@@ -2,7 +2,7 @@
 
 A multi-agent AI system built to automate B2B market research and cold outreach. Give it a target company's URL, and the system automatically scrapes their website, analyzes their business model, identifies AI integration opportunities, and drafts a hyper-personalized, high-converting pitch.
 
-**Live Demo:** [Insert your Streamlit Cloud Link Here]
+**Live Demo:** [https://autonomous-pitch-agent-pr0m1se.streamlit.app/]
 
 ## 🧠 How It Works (The Multi-Agent Pipeline)
 
